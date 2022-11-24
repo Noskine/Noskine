@@ -9,11 +9,25 @@
 - Procuro por estágio.
 <br>
 
+### Tecnologias
+
+
+
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![javascrip](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
+<div >
+  
 ![Enikson Sonay GitHub stats](https://github-readme-stats.vercel.app/api?username=Noskine&show_icons=true&theme=gotham)
 [![Enikson Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noskine&layout=compact&theme=gotham)](https://github.com/Noskine/github-readme-stats)
+  
+</div>
 
+### Contato
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
-[![nstagram](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]() 
