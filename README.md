@@ -2,7 +2,7 @@
 
 ### Meu nome é **Enikson**. É um prazer em ter você aqui! 🐸
 
-- Desde cedo sempre quis saber como o fundo funcionava, desmontava brinquedos e tentava montá-los novamente. Entrei no mundo da tecnologia bem cedo, sempre gostei bastante de jogos como *Manicraft* e *Legue of Legends*, minha curiosidade me levou a querer saber como funcionava sites e como os designes trabalhavam. 👨‍💻
+- Desde cedo sempre quis saber como o mundo funcionava, desmontava brinquedos e tentava montá-los novamente. Entrei no mundo da tecnologia bem cedo, sempre gostei bastante de jogos como *Manicraft* e *Legue of Legends*, minha curiosidade me levou a querer saber como funcionava sites e como os designes trabalhavam. 👨‍
 <br>
 
 - Sou estudante de informática pelo Instituto Metrópole Digital - UFRN com ênfase em desenvolvimento Web. 📚
