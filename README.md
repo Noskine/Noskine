@@ -4,7 +4,7 @@
 
 Desde cedo sempre quis saber como o mundo funcionava. Quando criança desmontava brinquedos na intenção de aprender e fazer meus proprios brinquedos. Como qualquer outra criança curiosa pesquisei sobre engines e criação de jogos e me apaixonei pelo mundo da tecnologia... Hoje sou entusiasta e estudante das tecnologias que permeaim a programação Web👨‍
 
-- Técnico em Informática pelo Instituto Metrópole Digital - UFRN 📚
+- Técnico em Informática pelo Instituto Metrópole Digital - UFRN (cursando) 📚
 - Designer Gráfico
 <hr>
 <div>
