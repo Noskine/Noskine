@@ -9,14 +9,6 @@
     É muito gratificante ver sua expressão de gratidão aos professores e à secretaria do seu curso. Reconhecer o valor e o esforço que eles dedicam ao ensino é essencial, pois são eles que moldam os alunos e preparam para os desafios da vida.
 </p>
 
-<div align="left" width="200px">
-
-## Tecnologias
-<p>
-    Vamos deixar de enrrolar, caso você seja um recrutador, ai vai as minhas tecnologias:
-</p>
-</div>
-
 ## Tecnologias
 <p>
     Vamos deixar de enrrolar, caso você seja um recrutador, ai vai as minhas tecnologias:
