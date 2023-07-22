@@ -5,10 +5,9 @@
 Desde cedo sempre quis saber como o mundo funcionava. Quando criança desmontava brinquedos na intenção de aprender e fazer meus proprios brinquedos. Como qualquer outra criança curiosa pesquisei sobre engines e criação de jogos e me apaixonei pelo mundo da tecnologia... Hoje sou entusiasta e estudante das tecnologias que permeaim a programação Web👨‍
 
 - Técnico em Informática pelo Instituto Metrópole Digital - UFRN (cursando) 📚
-- Designer Gráfico
 <div align="left">
   <hr>
-  > Technologies - Tecnologias
+> Technologies - Tecnologias
   <div>
       <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
       <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
