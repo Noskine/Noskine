@@ -3,6 +3,7 @@
 <p>
   Já que me livrei da maldição, aqui vai um pouco sobre mim. Desde cedo sou apaixonado por tecnologia, jogos e computadores, e sempre tive como meta fazer disso minha carreira. Atualmente, sou técnico formado pelo IMD - Instituto Metrópole Digital - da Universidade Federal do Rio Grande do Norte.
 </p>
+
 > Sobre meu curso
 <p>
     É muito gratificante ver sua expressão de gratidão aos professores e à secretaria do seu curso. Reconhecer o valor e o esforço que eles dedicam ao ensino é essencial, pois são eles que moldam os alunos e preparam para os desafios da vida.
