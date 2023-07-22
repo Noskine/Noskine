@@ -1,4 +1,5 @@
-## Hello world! 👋
+# Olá Mundo! 👋
+## Me livrei da Maldição 😂
 
 > Sobre Mim
 
