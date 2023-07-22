@@ -8,18 +8,42 @@
 <p>
     É muito gratificante ver sua expressão de gratidão aos professores e à secretaria do seu curso. Reconhecer o valor e o esforço que eles dedicam ao ensino é essencial, pois são eles que moldam os alunos e preparam para os desafios da vida.
 </p>
-<p>
-Você também destacou um ponto importante sobre o curso de tecnologia. Embora seja uma área empolgante e repleta de oportunidades, é preciso entender que o caminho não é fácil e não é apenas um mar de flores ou feito de ouro, como muitas vezes é vendido aos estudantes. É necessário muito esforço, dedicação e aprendizado contínuo para alcançar o sucesso nessa área.
-</p>
-<p>
-Seu relato mostra como o curso trouxe uma perspectiva diferente sobre o mundo, ampliando seus horizontes e enriquecendo sua visão de mundo. Agradecer pelas oportunidades e aprendizados é uma atitude admirável, pois demonstra humildade e reconhecimento das conquistas obtidas ao longo do percurso acadêmico.
-</p>
-<p>
-Continue valorizando o conhecimento adquirido e aplicando-o de forma positiva em sua trajetória pessoal e profissional. Desejo-lhe muito sucesso em sua jornada na área de tecnologia!
-</p>
+
+<div align="left" width="200px">
+
 > Tecnologias
 <p>
     Vamos deixar de enrrolar, caso você seja um recrutador, ai vai as minhas tecnologias:
 </p>
+</div>
+
+## Tecnologias
+<p>
+    Vamos deixar de enrrolar, caso você seja um recrutador, ai vai as minhas tecnologias:
+</p>
+
+
+### Tecnologia Front-end:
+
+[![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+)](#)
+[![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
+[![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+[![tailwind](	https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
+[![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
+
+### Tecnologias Back-end:
+
+[![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
+[![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](#)
+[![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)
+
+### Estudano no momento:
+
+[![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+[![.net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](#)
+[![VEU](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](#)
+
 <div align="right">
     <img src="https://camo.githubusercontent.com/9337aa1c43ba11bd5bcf2072291f6d446ac88185bdd8dc840807724d3f043f1c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c3356306d65677762426545544d675a612f67697068792e676966" width="200px">
+</div>
