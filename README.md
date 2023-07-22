@@ -19,6 +19,6 @@ Desde cedo sempre quis saber como o mundo funcionava. Quando criança desmontava
     <img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   </div>
   <div align="right">
-    <img src="https://camo.githubusercontent.com/9337aa1c43ba11bd5bcf2072291f6d446ac88185bdd8dc840807724d3f043f1c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c3356306d65677762426545544d675a612f67697068792e676966">
+    <img src="https://camo.githubusercontent.com/9337aa1c43ba11bd5bcf2072291f6d446ac88185bdd8dc840807724d3f043f1c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c3356306d65677762426545544d675a612f67697068792e676966" width="20px">
   </div>
 </div>
