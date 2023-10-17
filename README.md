@@ -22,7 +22,7 @@
 
 ## 📡&nbsp; Tecnologias
 <p>
-    Vamos deixar de enrrolar, caso você seja um recrutador, ai vai as minhas tecnologias:
+    Vamos deixar de enrrolar, ai vai as minhas tecnologias:
 </p>
 
 
@@ -43,3 +43,4 @@
 ### ⚡&nbsp; Estudano no momento:
 
 [![react-native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+[![Golnag](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](#)
