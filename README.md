@@ -28,10 +28,10 @@
 
 
 ### 👩‍💻&nbsp; Tecnologias Back-end:
-[![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
-[![nodejs](https://img.shields.io/badge/Node.js-43928?style=for-the-badge&logo=node.js&logoColor=white)](#)
-[![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](#)
-[![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![nodejs](https://img.shields.io/badge/Node.js-43928?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
+[![sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)](https://sequelize.org/)
+[![prisma](https://img.shields.io/badge/Prisma-050038?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/)
 
 ### 🎨&nbsp; Tecnologia Front-end:
 
@@ -42,7 +42,4 @@
 
 ### ⚡&nbsp; Estudano no momento:
 
-[![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
-[![.net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](#)
-[![VEU](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](#)
-[![](https://img.shields.io/badge/Prisma-050038?style=for-the-badge&logo=Prisma&logoColor=white)](#)
+[![react-native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
