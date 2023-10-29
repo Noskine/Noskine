@@ -1,19 +1,5 @@
 # 👋 Olá meu nome é Enikson 
-<br>
-
-[![iamge](https://art.pixilart.com/original/sr2ffa6f16695f9.gif)]()
-
-<div align="center">
-<p style="font-weight: bold; ">~ Fullstack Developer ~</p>
-</div>
-<div align="center">
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enikson-sonay/)
-[![email](https://img.shields.io/badge/EMAIL-000?style=for-the-badge&logo=twitter&logoColor=white)](noskine)
-
-</div>
-
-## 👋 Uma breve discrição sobre mim
+## Uma breve discrição sobre mim
 <br>
 
   Já que me livrei da maldição, aqui vai um pouco sobre mim. Desde cedo sou apaixonado por tecnologia, jogos e computadores, e sempre tive como meta fazer disso minha carreira. 
@@ -24,8 +10,6 @@
 <p>
     Vamos deixar de enrrolar, ai vai as minhas tecnologias:
 </p>
-
-
 
 ### 👩‍💻&nbsp; Tecnologias Back-end:
 [![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -44,3 +28,4 @@
 
 [![react-native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 [![Golnag](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](#)
+
