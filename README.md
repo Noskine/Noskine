@@ -4,12 +4,12 @@
 [![iamge](https://art.pixilart.com/original/sr2ffa6f16695f9.gif)]()
 
 <div align="center">
-<p style="font-weight: bold; ">~ Fullstack Developer • Graphic designer ~</p>
+<p style="font-weight: bold; ">~ Fullstack Developer ~</p>
 </div>
 <div align="center">
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enikson-sonay/)
-[![email](https://img.shields.io/badge/EMAIL-000?style=for-the-badge&logo=protonmail&logoColor=white)](noskine)
+[![email](https://img.shields.io/badge/EMAIL-000?style=for-the-badge&logo=twitter&logoColor=white)](noskine)
 
 </div>
 
