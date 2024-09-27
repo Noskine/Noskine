@@ -31,7 +31,9 @@ Meu nome é Enikson, e sou um entusiasta da programação e um programador Full 
 
 ### ⚡&nbsp; Estudano no momento:
 
-[![react-native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+[![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
+[![svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)](#)
+[![redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)](#)
 
 ## Vamos Conectar!
 Estou sempre aberto a novas conexões e colaborações. Se você quiser discutir projetos, compartilhar conhecimento ou apenas bater um papo sobre programação, sinta-se à vontade para entrar em contato comigo. Estou ansioso para conhecer outros entusiastas da tecnologia e aprender juntos.
